@@ -1,6 +1,7 @@
 # Meditation timers 
 
 implemented using bash sleep and echo.
+
 just execute and meditate.
 
 # To use
@@ -10,4 +11,5 @@ just execute and meditate.
 # Pitfalls
 
 tested on macos.
+
 linux: might need to edit the echo message and change the string to ^G (ctrl G, or some other sound command)

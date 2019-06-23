@@ -1,2 +1,1 @@
-sleep 2700
-./beep.sh
+./bin/base-timer.sh 2700

@@ -2,7 +2,9 @@
 
 just execute and meditate.
 
-##if you're on linux you may need to modify beep.sh with ^G.
-
 # to use
 ./10-minutes.sh
+
+#pitfalls
+tested on macos.
+linux: might need to edit the echo message and change the string to ^G (ctrl G, or some other sound command)
